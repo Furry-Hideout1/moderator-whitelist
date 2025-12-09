@@ -49,7 +49,6 @@ Ducketh
 Genuine-Crysis
 Razhee
 StronkTank
-ThatOneMutt
 Kanokochan
 Voarex
 Xonvul
@@ -73,3 +72,4 @@ SkylerShark
 Rain_Iwa
 Dangerzone50
 EngineerIsaac
+CoastSilly
